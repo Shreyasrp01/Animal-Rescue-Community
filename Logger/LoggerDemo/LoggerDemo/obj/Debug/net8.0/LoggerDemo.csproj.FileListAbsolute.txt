@@ -1,0 +1,14 @@
+E:\CDAC\projects\Animal_rescue_community\Logger\LoggerDemo\LoggerDemo\bin\Debug\net8.0\LoggerDemo.exe
+E:\CDAC\projects\Animal_rescue_community\Logger\LoggerDemo\LoggerDemo\bin\Debug\net8.0\LoggerDemo.deps.json
+E:\CDAC\projects\Animal_rescue_community\Logger\LoggerDemo\LoggerDemo\bin\Debug\net8.0\LoggerDemo.runtimeconfig.json
+E:\CDAC\projects\Animal_rescue_community\Logger\LoggerDemo\LoggerDemo\bin\Debug\net8.0\LoggerDemo.dll
+E:\CDAC\projects\Animal_rescue_community\Logger\LoggerDemo\LoggerDemo\bin\Debug\net8.0\LoggerDemo.pdb
+E:\CDAC\projects\Animal_rescue_community\Logger\LoggerDemo\LoggerDemo\obj\Debug\net8.0\LoggerDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\projects\Animal_rescue_community\Logger\LoggerDemo\LoggerDemo\obj\Debug\net8.0\LoggerDemo.AssemblyInfoInputs.cache
+E:\CDAC\projects\Animal_rescue_community\Logger\LoggerDemo\LoggerDemo\obj\Debug\net8.0\LoggerDemo.AssemblyInfo.cs
+E:\CDAC\projects\Animal_rescue_community\Logger\LoggerDemo\LoggerDemo\obj\Debug\net8.0\LoggerDemo.csproj.CoreCompileInputs.cache
+E:\CDAC\projects\Animal_rescue_community\Logger\LoggerDemo\LoggerDemo\obj\Debug\net8.0\LoggerDemo.dll
+E:\CDAC\projects\Animal_rescue_community\Logger\LoggerDemo\LoggerDemo\obj\Debug\net8.0\refint\LoggerDemo.dll
+E:\CDAC\projects\Animal_rescue_community\Logger\LoggerDemo\LoggerDemo\obj\Debug\net8.0\LoggerDemo.pdb
+E:\CDAC\projects\Animal_rescue_community\Logger\LoggerDemo\LoggerDemo\obj\Debug\net8.0\LoggerDemo.genruntimeconfig.cache
+E:\CDAC\projects\Animal_rescue_community\Logger\LoggerDemo\LoggerDemo\obj\Debug\net8.0\ref\LoggerDemo.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CDAC\\projects\\Animal_rescue_community\\Logger\\LoggerDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C68911FD-9B5A-4271-AC03-96B8807E4BC7}|LoggerDemo\\LoggerDemo.csproj|e:\\cdac\\projects\\animal_rescue_community\\logger\\loggerdemo\\loggerdemo\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68911FD-9B5A-4271-AC03-96B8807E4BC7}|LoggerDemo\\LoggerDemo.csproj|solutionrelative:loggerdemo\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68911FD-9B5A-4271-AC03-96B8807E4BC7}|LoggerDemo\\LoggerDemo.csproj|e:\\cdac\\projects\\animal_rescue_community\\logger\\loggerdemo\\loggerdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68911FD-9B5A-4271-AC03-96B8807E4BC7}|LoggerDemo\\LoggerDemo.csproj|solutionrelative:loggerdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68911FD-9B5A-4271-AC03-96B8807E4BC7}|LoggerDemo\\LoggerDemo.csproj|e:\\cdac\\projects\\animal_rescue_community\\logger\\loggerdemo\\loggerdemo\\sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68911FD-9B5A-4271-AC03-96B8807E4BC7}|LoggerDemo\\LoggerDemo.csproj|solutionrelative:loggerdemo\\sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLServer.cs",
+              "DocumentMoniker": "E:\\CDAC\\projects\\Animal_rescue_community\\Logger\\LoggerDemo\\LoggerDemo\\SQLServer.cs",
+              "RelativeDocumentMoniker": "LoggerDemo\\SQLServer.cs",
+              "ToolTip": "E:\\CDAC\\projects\\Animal_rescue_community\\Logger\\LoggerDemo\\LoggerDemo\\SQLServer.cs",
+              "RelativeToolTip": "LoggerDemo\\SQLServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:00:07.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "E:\\CDAC\\projects\\Animal_rescue_community\\Logger\\LoggerDemo\\LoggerDemo\\Logger.cs",
+              "RelativeDocumentMoniker": "LoggerDemo\\Logger.cs",
+              "ToolTip": "E:\\CDAC\\projects\\Animal_rescue_community\\Logger\\LoggerDemo\\LoggerDemo\\Logger.cs",
+              "RelativeToolTip": "LoggerDemo\\Logger.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T17:58:49.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CDAC\\projects\\Animal_rescue_community\\Logger\\LoggerDemo\\LoggerDemo\\Program.cs",
+              "RelativeDocumentMoniker": "LoggerDemo\\Program.cs",
+              "ToolTip": "E:\\CDAC\\projects\\Animal_rescue_community\\Logger\\LoggerDemo\\LoggerDemo\\Program.cs",
+              "RelativeToolTip": "LoggerDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T17:58:09.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
