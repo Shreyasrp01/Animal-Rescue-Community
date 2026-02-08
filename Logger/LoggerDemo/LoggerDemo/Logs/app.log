@@ -1,3 +1,9 @@
 Logged at 30-01-2026 11:38:01 PM - Main Started
 Logged at 30-01-2026 11:38:01 PM - Audited : Insert in SQLServer
 Logged at 30-01-2026 11:38:01 PM - Audited : Update in SQLServer
+Logged at 2/8/2026 7:33:25 PM - Logger Service Started on http://localhost:5000/
+Logged at 2/8/2026 7:35:06 PM - Received: New user signup: testsender@example.com
+Logged at 2/8/2026 7:37:17 PM - Received: Ping
+Logged at 2/8/2026 7:40:55 PM - Received: User login attempt: aditya01@gmail.com
+Logged at 2/8/2026 8:11:38 PM - Received: User login attempt: pranav01@gmail.com
+Logged at 2/8/2026 8:18:19 PM - Received: User login attempt: aditya01@gmail.com

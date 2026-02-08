@@ -1,4 +1,4 @@
-package com.arc.config;
+package com.arc.payment.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

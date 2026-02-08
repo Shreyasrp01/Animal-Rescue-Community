@@ -11,6 +11,7 @@ import com.arc.dto.AuthResponseDTO;
 import com.arc.dto.LoginDTO;
 import com.arc.dto.UserDTO;
 import com.arc.services.AuthService;
+import com.arc.services.ExternalLoggerService;
 
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
@@ -21,11 +22,13 @@ import lombok.RequiredArgsConstructor;
 public class AuthController {
 
     private final AuthService authService;
+    private final ExternalLoggerService loggerService;
 
     @PostMapping("/signup")
     public ResponseEntity<?> signup(@Valid @RequestBody UserDTO dto) {
 
         authService.signup(dto);
+        loggerService.log("New user signup: " + dto.getEmail());
 
         return ResponseEntity.ok(
                 new ApiResponse("User registered successfully", "SUCCESS")
@@ -35,7 +38,8 @@ public class AuthController {
     @PostMapping("/login")
     public ResponseEntity<AuthResponseDTO> login(
             @Valid @RequestBody LoginDTO dto) {
-
+        
+        loggerService.log("User login attempt: " + dto.getEmail());
         return ResponseEntity.ok(authService.login(dto));
     }
 
@@ -43,6 +47,7 @@ public class AuthController {
     public ResponseEntity<?> logout() {
 
         authService.logout();
+        loggerService.log("User logout");
 
         return ResponseEntity.ok(
                 new ApiResponse("Logged out successfully", "SUCCESS")
